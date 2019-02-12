@@ -1,0 +1,62 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+/*NAVBAR STARTS HERE*/
+
+.bg-dark{
+	background-color: #000000 !important; 
+}
+
+.nav-item a{
+	color: white;
+}
+/*NAVBAR ENDS HERE*/
+
+
+/*BODY STARTS HERE*/
+body{
+	font-family: 'Montserrat';
+	font-weight: 100;
+	background-color: black;
+}
+
+
+h3{
+	color: silver;
+}
+
+.contact .col-lg-12{
+	background-color: rgba(0,0,0,0.5);
+	background-image: url("../images/contact.jpg");
+	height: 620px;
+	background-size: cover;
+	box-shadow: inset 1px 0px 10px 5px #000000;
+}
+
+.col-lg-7{
+	/*background-color: blue;*/
+	height:720px;
+}
+
+/*FORM CHANGES*/
+label{
+	color: silver;
+}
+
+.form-control{
+	background-color: transparent;
+	border:transparent;
+	border-bottom: 2px solid silver;
+}
+
+.form-control:focus{
+	background-color: transparent;
+	box-shadow: none;
+	color:white;
+
+}
+
+/*FORM OVER*/
+/*BODY ENDS HERE*/

@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+/*NAVBAR STARTS HERE*/
+
+.bg-dark{
+	background-color: #000000 !important; 
+}
+
+.nav-item a{
+	color: white;
+}
+/*NAVBAR ENDS HERE*/
+
+
+/*BODY STARTS HERE*/
+body{
+	font-family: 'Montserrat';
+	font-weight: 100;
+	background-color: black;
+}
+.guide{
+	background-image: radial-gradient(circle, #0e192e, #161222, #160c17, #0f050b, #000000);
+}
+
+h1,h3{
+	color: silver;
+}
+
+
+/*BODY ENDS HERE*/
